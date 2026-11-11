@@ -1,0 +1,6 @@
+{
+  "name": "BillSplit - Group Expense & Mess Bill Manager for Roommates",
+  "description": "Smart expense splitter and mess bill manager for hostel and PG roommates. Split rent, EB electricity bills, groceries, cook salaries, track daily meals, and auto-calculate who owes whom with 1-click WhatsApp summaries and UPI settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
